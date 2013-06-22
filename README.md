@@ -8,3 +8,8 @@ What is the best wordprocessor I think?<p>
 4. Wordprocessor is also html and is also the browser, so anyone can enrich it.<p>
 5. No tool, as we using pencil and paper, you never use toolbar, menu, format,...so many garbage things.<p>
 6. Wordprocessor is table, is presentation, is grapher, is publisher. So worprocessor here is only ONE Paper!<p>
+7. 
+Ref.
+http://ckeditor.com/about/license
+http://dev.ckeditor.com/
+http://docs.cksource.com/Main_Page
