@@ -10,6 +10,7 @@ What is the best wordprocessor I think?<p>
 6. Wordprocessor is table, is presentation, is grapher, is publisher. So worprocessor here is only ONE Paper!<p>
 7. 
 Ref.
+http://svn.ckeditor.com
 http://ckeditor.com/about/license
 http://dev.ckeditor.com/
 http://docs.cksource.com/Main_Page
