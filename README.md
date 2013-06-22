@@ -1,6 +1,6 @@
 html5wp(Thanks GitHub, Thanks CKEditor, Thanks the world...)
 =======
-I will start this project to fulfil my dream the best wordprocessor in the world.<p>
+I will start this project to fulfil my dream,to do the best wordprocessor in the world.<p>
 What is the best wordprocessor I think?<p>
 1.  Touch anywhere, working in browser, so anyone can use as easy as posible.<p>
 2. Slightly, No plugin, no long time startup, no save as.<p>
