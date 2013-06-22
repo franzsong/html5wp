@@ -1,4 +1,4 @@
-html5wp
+html5wp(Thanks GitHub, Thanks CKEditor, Thanks the world...)
 =======
 I will start this project to fulfil my dream the best wordprocessor in the world.<p>
 What is the best wordprocessor I think?<p>
